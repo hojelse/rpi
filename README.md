@@ -1,1 +1,1 @@
-# rpi
+# Raspberry pi scripts and stuff
